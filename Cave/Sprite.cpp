@@ -1,4 +1,4 @@
-//Lưu thông tin của hình muốn vẽ
+//Lưu thông tin của hình muốn vẽ 
 
 #include "Sprite.h"
 #include "graphic.h"
