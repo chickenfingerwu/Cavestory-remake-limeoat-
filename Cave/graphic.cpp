@@ -1,3 +1,5 @@
+//Lưu thông tin về đồ họa
+
 #include <SDL.h>
 #include "graphic.h"
 #include <SDL_image.h>
