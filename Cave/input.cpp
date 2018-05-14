@@ -1,3 +1,5 @@
+//Giải quyết input của người dùng
+
 #include "input.h"
 
 //get called at begin of new frame to reset keys//
