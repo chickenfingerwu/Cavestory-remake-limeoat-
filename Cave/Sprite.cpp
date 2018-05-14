@@ -1,3 +1,5 @@
+//Lưu thông tin của hình muốn vẽ
+
 #include "Sprite.h"
 #include "graphic.h"
 #include <SDL_image.h>
