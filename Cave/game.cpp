@@ -1,3 +1,5 @@
+//Lưu thông tin của Game (game loop, initialization,...)
+
 #include "game.h"
 #include <SDL.h>
 #include "graphic.h"
