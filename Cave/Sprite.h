@@ -19,3 +19,4 @@ private:
 };
 
 #endif // SPRITE_H_INCLUDED
+ 
